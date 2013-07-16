@@ -1,0 +1,10 @@
+Date: Fri, 07 Dec 2012 19:45:42 GMT
+Server: Apache
+Set-Cookie: PHPSESSID=47644894fd76c34ab59556df351bde6f; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=47644894fd76c34ab59556df351bde6f; path=/
+Content-Length: 14826
+Connection: close
+Content-Type: text/xml; charset=utf-8
